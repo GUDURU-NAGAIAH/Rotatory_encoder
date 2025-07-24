@@ -1,0 +1,40 @@
+# Vivado generated files
+*.jou
+*.log
+*.str
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.runs/
+*.Xil/
+*.vivado/
+*.webtalk/
+*.xpr.cache/
+*.xpr.lock
+
+# Temporary and backup files
+*.tmp
+*.bak
+*.orig
+*~
+*.swp
+
+# Simulation database
+xsim.dir/
+
+# IP integrator
+ip_repo/
+
+# Project summary database
+*.xds
+
+# Optional: Ignore entire .xpr project if you want only HDL
+# *.xpr
+
+# Output products
+*.bit
+*.bin
+*.elf
+*.mmi
+*.o
